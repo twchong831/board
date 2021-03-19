@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++      CMakeFiles/interClient.dir/main.cpp.o  -o interClient -rdynamic processor/libPROCESSOR_CARNAVI_LiDAR.a LiDAR/libLIDARPARSER.a UDP/libUDP.a libinterCommu.a -lpthread 

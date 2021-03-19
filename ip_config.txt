@@ -1,0 +1,79 @@
+IP : 192.168.1.60
+port : 5000
+
+IP 192.168.2.60
+port : 5001
+
+IP 192.168.3.60
+port : 5002
+
+IP 192.168.4.60
+port : 5003
+
+phy#3
+        Interface mwfd1
+                ifindex 22
+                wdev 0x300000003
+                addr 02:50:43:02:fe:02
+                type managed
+        Interface muap1
+                ifindex 21
+                wdev 0x300000002
+                addr 00:50:43:02:00:02
+                type AP
+        [Interface mmlan1
+                ifindex 20
+                wdev 0x300000001
+                addr 00:50:43:02:fe:02
+                type managed]
+phy#2
+        Interface wfd1
+                ifindex 19
+                wdev 0x200000003
+                addr 02:50:43:02:fe:01
+                type managed
+        Interface uap1
+                ifindex 18
+                wdev 0x200000002
+                addr 00:50:43:02:00:01
+                type AP
+        Interface mlan1
+                ifindex 17
+                wdev 0x200000001
+                addr 00:50:43:02:fe:01
+                type managed
+phy#1
+        Interface mwfd0
+                ifindex 16
+                wdev 0x100000003
+                addr 02:50:43:02:fe:02
+                type managed
+        Interface muap0
+                ifindex 15
+                wdev 0x100000002
+                addr 00:50:43:02:00:02
+                type AP
+        Interface mmlan0
+                ifindex 14
+                wdev 0x100000001
+                addr 00:50:43:02:fe:02
+                type managed	//success?
+phy#0
+        Interface wfd0
+                ifindex 13
+                wdev 0x3
+                addr 02:50:43:02:fe:01
+                type managed
+        Interface uap0
+                ifindex 12
+                wdev 0x2
+                addr 00:50:43:02:00:01
+                type AP
+        Interface mlan0
+                ifindex 11
+                wdev 0x1
+                addr 00:50:43:02:fe:01
+                type managed
+
+
+start_JodyW3.sh

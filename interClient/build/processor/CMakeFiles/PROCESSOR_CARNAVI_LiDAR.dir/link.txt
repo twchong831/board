@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPROCESSOR_CARNAVI_LiDAR.a  CMakeFiles/PROCESSOR_CARNAVI_LiDAR.dir/carnavicomProcessor.cpp.o
+/usr/bin/ranlib libPROCESSOR_CARNAVI_LiDAR.a

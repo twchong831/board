@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/interClient.dir/main.cpp.o  -o interClient v4l2/libUSBVIDEO.a -lv4l2 -ludev libinterCommu.a 

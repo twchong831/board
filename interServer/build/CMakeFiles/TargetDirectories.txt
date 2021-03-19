@@ -1,0 +1,5 @@
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interServer/build/CMakeFiles/edit_cache.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interServer/build/CMakeFiles/dcuServer.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interServer/build/CMakeFiles/rebuild_cache.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interServer/build/CMakeFiles/interCommu.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interServer/build/CMakeFiles/UDP.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUDP.a  CMakeFiles/UDP.dir/carnavicom_udp.cpp.o
+/usr/bin/ranlib libUDP.a

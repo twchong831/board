@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/v4l2/usbvideo.cpp
+usbvideo.h
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/v4l2/usbvideo.h
+
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/v4l2/usbvideo.h
+errno.h
+-
+fcntl.h
+-
+linux/videodev2.h
+-
+stdint.h
+-
+stdio.h
+-
+string.h
+-
+sys/ioctl.h
+-
+sys/mman.h
+-
+unistd.h
+-
+libv4l2.h
+-
+iostream
+-
+vector
+-
+stdlib.h
+-
+

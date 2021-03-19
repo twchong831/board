@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinterCommu.a  CMakeFiles/interCommu.dir/home/carnavi/pcl-workspace/DCU_code/dcuInternalProcessor_custom/interCommu/interCommunication.cpp.o
+/usr/bin/ranlib libinterCommu.a

@@ -1,0 +1,7 @@
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/CMakeFiles/edit_cache.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/CMakeFiles/rebuild_cache.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/CMakeFiles/interCommu.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/CMakeFiles/interClient.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/v4l2/CMakeFiles/rebuild_cache.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/v4l2/CMakeFiles/USBVIDEO.dir
+/home/carnavi-1team/workspace/dcuInternalProcessor_custom/interClient_camera/build/v4l2/CMakeFiles/edit_cache.dir

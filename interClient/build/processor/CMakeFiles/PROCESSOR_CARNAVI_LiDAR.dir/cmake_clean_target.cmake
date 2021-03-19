@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libPROCESSOR_CARNAVI_LiDAR.a"
+)

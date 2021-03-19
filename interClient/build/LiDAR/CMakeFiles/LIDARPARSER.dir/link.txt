@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIDARPARSER.a  CMakeFiles/LIDARPARSER.dir/lidarParser.cpp.o CMakeFiles/LIDARPARSER.dir/vl_as16.cpp.o
+/usr/bin/ranlib libLIDARPARSER.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUSBVIDEO.a  CMakeFiles/USBVIDEO.dir/usbvideo.cpp.o
+/usr/bin/ranlib libUSBVIDEO.a
